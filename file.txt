@@ -1,1 +1,6 @@
 hello git
+<<<<<<< HEAD
+=======
+rhis is my new change
+this is my new change
+>>>>>>> feature-branch
